@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Gordon, I enjoy modelling projects.
+
 <!--
 **GorgLui/GorgLui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
